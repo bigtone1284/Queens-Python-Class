@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#Note: this was provided by my instructors.  I did not write this!
 
 import unittest
 from urllib import request
